@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    font-family: 'roboto', sans-serif;
+}
+
+
+p{
+    color: aqua;
+    font-size: 24px;
+}
+
+h1, h2{
+    text-align: center;
+    font-size: 24px;
+    color: red;
+}
+
+
+a, img{
+    display: block;
+}
+
+a{
+    margin: 50px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: chocolate;
+}  /* eñl a:hover es para que un link o palabra cambie d color cuando pase el puntero encima d el */
+
+img{
+    margin: auto;
+}
+
+#cambio{
+    font-size: 30px;
+}
+
+#imagen{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#snk{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+/*<br> sirve para crear un espacio hacia abajo en y tbm se puede usar en imagenes y asi poner debajo de 
+la otra imagen */ 
